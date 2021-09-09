@@ -5,4 +5,5 @@ function Question() {
         alert("李毅誠 大一的屁是不是你放的？");
     else
         alert("李毅誠 大一的屁果然是你放的！");
+    console.log("123");
 }
